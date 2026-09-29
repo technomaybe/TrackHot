@@ -1,0 +1,41 @@
+# ---- macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# ---- Xcode ----
+# Build products
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# User-specific Xcode state (per-developer, not shared)
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods / Carthage (not used here, but safe defaults)
+Pods/
+Carthage/Build/
+
+# Fastlane / provisioning
+*.mobileprovision
+*.provisionprofile
+
+# Local tooling / assistant state (not part of the app)
+.claude/
+
+# Misc
+*.log
+*~

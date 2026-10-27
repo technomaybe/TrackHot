@@ -8,6 +8,8 @@
 
 Swipe down with three fingers and TrackHot fires the shortcut you assigned. I use it to take screenshots without reaching for the keyboard. That's the whole app.
 
+<img src="docs/menu.png" alt="The TrackHot menu open in the macOS menu bar, with the shortcut set to Control-Command-4" width="320">
+
 TrackHot is the trackpad sibling of [ScrollHot](https://github.com/technomaybe/ScrollHot), which does the same thing for a mouse's scroll-wheel click. You can run both and point them at the same shortcut.
 
 ## Features
